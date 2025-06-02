@@ -126,7 +126,7 @@ Make sure you have Python 3.x installed. Install the required libraries:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn xgboost
-# Cricket Score Prediction
+
 
 
 
