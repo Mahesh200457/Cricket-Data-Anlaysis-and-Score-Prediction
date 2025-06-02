@@ -128,9 +128,5 @@ Make sure you have Python 3.x installed. Install the required libraries:
 pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 # Cricket Score Prediction
 
-## 📥 Clone the Repository
 
-```bash
-git clone https://github.com/your-username/cricket-score-prediction.git
-cd cricket-score-prediction
 
